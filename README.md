@@ -12,3 +12,4 @@ The objective of this notebook is to find the problem statement and do EDA to fi
 -- 1 = the patient survived 5 years or longer 
 -- 2 = the patient died within 5 year
 
+[Link for Breast Cancer Survival Jupyter note book](http://http://localhost:8889/notebooks/Breast_cancer_survivaldata.ipynb "Link for Breast Cancer Survival Jupyter note book")
